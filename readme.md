@@ -18,20 +18,17 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 
-<!-- <h2>GITHUB STATISTICS </h2> -->
-
 <h2>Connect with me : </h2>
 
 <a href="https://www.linkedin.com/in/rashi-shukla-9b2426200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashi-shukla-9b2426200/" height="30" width="40" /></a> 
 
+## My GitHub Statistics 📊
 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rashi&theme=react" alt="17rashi"/></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rashi&show_icons=true&locale=en&theme=tokyonight" alt="17rashi"/></p> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17rashi&show_icons=true&locale=en&layout=compact" alt="17rashi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17rashi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="17rashi" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17rashi&show_icons=true&locale=en" alt="17rashi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=17rashi&show_icons=true&locale=en&theme=tokyonight" alt="17rashi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rashi&" alt="17rashi" /></p>
--->
+
