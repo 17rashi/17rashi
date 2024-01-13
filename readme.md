@@ -24,8 +24,8 @@
 
 ## My GitHub Statistics 📊
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=17rashi&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=17rashi&theme=dark)](https://git.io/streak-stats)
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=17rashi&theme=dark" alt="GitHub Streak" /></a> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17rashi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="17rashi" /></p> -->
 
