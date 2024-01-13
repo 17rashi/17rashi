@@ -5,7 +5,7 @@
 
 <h2>Life Update </h2>
 
-🌱 I’m currently working on my problem solving skills.
+🌱 I’m currently working on my problem-solving skills.
 
 💬 Ask me about C++, Front-end Development (React.js)
 
@@ -24,8 +24,8 @@
 
 ## My GitHub Statistics 📊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rashi&show_icons=true&locale=en&theme=tokyonight" alt="17rashi"/></p> 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=17rashi&theme=dark" alt="GitHub Streak" /></a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17rashi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="17rashi" /></p> -->
 
